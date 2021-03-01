@@ -263,6 +263,11 @@ rtmp://59.124.75.156:1935/sat/tv761
 rtmp://59.124.75.156:1935/sat/tv771
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",中天新闻
 http://54.238.101.60:9500/live.m3u8?c=6#rtmp://59.124.75.156:1935/sat/tv521
+#EXTINF:-1 tvg-id="6067" tvg-logo="http://tv.sason.xyz/logo/yxw.png" group-title="港澳台",壹新闻 ★
+https://usb.bozztv.com/NEXTTVHD/index.m3u8
+#EXTINF:-1 tvg-id="6067" tvg-logo="http://tv.sason.xyz/logo/yxw.png" group-title="港澳台",壹新闻备选 ★
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",FOX体育
 rtmp://59.124.75.156:1935/sat/tv731
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",FOX2体育
