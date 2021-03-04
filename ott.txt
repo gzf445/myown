@@ -125,7 +125,7 @@ http://livetv.dnsfor.me:80/channel.5.m3u8
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV
 http://61.238.6.49:8000/bysid/99
 #EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="港澳台",ViuTV备份
-https://cdn.hkdtmb.com/99a/playlist.m3u8
+https://cdn.hkdtmb.com/hls/99/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港澳台",亚洲电视台
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi.m3u8
